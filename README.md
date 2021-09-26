@@ -1,16 +1,18 @@
-### Hi there 👋
+### Tranquilo meus Devs? 👋
 
-<!--
-**gomscarlos/gomscarlos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente estudante de Análise e Desenvolvimento de Sistemas
+- 😴 Só durmo quando o código rodar
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://www.instagram.com/goms_carlos/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+<div>
+  <a>
+    <img align="left" alt="yugi-oh" src="https://cdn.discordapp.com/attachments/852682300369797130/891795113481748591/yugioh-cards.gif" height="100" width="100">
+    <br><br><br><br><br>É hora de Codar
+  </a>
+     
+</div>
