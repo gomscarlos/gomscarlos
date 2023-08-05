@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou estudante de Análise e Desenvolvimento de Sistemas.<br>Aprendendo atualmente Vue.js e Laravel para o desenvolvimento de um projeto de estágio na Empresa Franet.<br>
+Sou estudante de Análise e Desenvolvimento de Sistemas.<br>Aprendendo atualmente Vue.js e Laravel para o desenvolvimento de um projeto de estágio.<br>
 
 
 ## 🌐 Socials:
