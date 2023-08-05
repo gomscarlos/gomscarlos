@@ -1,5 +1,6 @@
 # 💫 About Me:
-Sou estudante de Análise e Desenvolvimento de Sistemas.<br>Aprendendo atualmente Vue.js e Laravel para o desenvolvimento de um projeto de estágio.<br>
+
+I'm a Systems Analysis and Development student.<br>Currently learning Vue.js and Laravel for the development of an internship project.<br>
 
 
 ## 🌐 Socials:
